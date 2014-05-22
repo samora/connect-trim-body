@@ -1,7 +1,7 @@
 {
   "name": "connect-trim-body",
   "version": "0.0.0",
-  "description": "Connect/Express middleware to trim all params in request body. Works recursively.",
+  "description": "Connect/Express middleware to trim all parameters in request body. Works recursively.",
   "main": "index.js",
   "repository": {
     "type": "git",
