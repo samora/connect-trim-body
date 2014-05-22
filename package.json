@@ -1,0 +1,26 @@
+{
+  "name": "connect-trim-body",
+  "version": "0.0.0",
+  "description": "Connect/Express middleware to trim all params in request body. Works recursively.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samora/connect-trim-body.git"
+  },
+  "keywords": [
+    "trim",
+    "sanitize",
+    "body",
+    "connect",
+    "express"
+  ],
+  "author": "Samora Dake",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samora/connect-trim-body/issues"
+  },
+  "homepage": "https://github.com/samora/connect-trim-body",
+  "dependencies": {
+    "trim-body": "0.0.2"
+  }
+}
