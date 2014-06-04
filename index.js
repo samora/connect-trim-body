@@ -5,7 +5,6 @@ module.exports = function () {
     if (req.body) {
       trimBody(req.body);
     }
-
     next();
   }
 };
