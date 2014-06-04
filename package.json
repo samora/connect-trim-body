@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/samora/connect-trim-body",
   "dependencies": {
-    "trim-body": "0.0.2"
+    "trim-body": "0.0.3"
   }
 }
